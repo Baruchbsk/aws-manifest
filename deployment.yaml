@@ -19,7 +19,7 @@ spec:
         app: flaskdemo
     spec:
       containers:
-      - image: baruchbsk/aws-demo:7
+      - image: baruchbsk/aws-demo:latest
         name: flaskdemo
         resources: {}
 status: {}
